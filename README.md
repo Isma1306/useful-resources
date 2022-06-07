@@ -34,3 +34,6 @@ See some wireframing examples from previous Solo projects [here](./img/Solo.Diag
 
 - [How to Structure Your Data with Firebase (Cloud Firestore) 14 min](https://www.youtube.com/watch?v=haMOUb3KVSo) If you are considering using Firebase checkout this design video.
         
+## General Notes
+
+- ⚠️ When searching for YouTube videos or tutorials online, make sure to check the date of creation, as the software versions mentioned or used in the tutorial might be **outdated**. Things are changing fast in the web development world, and you might find yourselves following a tutorial that has been superseded by another version with breaking changes.
