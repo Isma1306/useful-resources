@@ -8,7 +8,7 @@ List of resources for our projects. Feel free to add more if you want.
 
 Notes:
 
-Watch for APIs that **do not support client requests** (you'll get CORS issues with )
+⚠️ EmojiWatch for APIs that **do not support client requests** (you'll get CORS issues with )
 Hints that the API does not support Client-side: No mention of JS/Client code samples.
 [Example](./API.Probably.not.Supporting.Client.Requests.jpg)
 
