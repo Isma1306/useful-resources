@@ -23,3 +23,7 @@ Hints that the API does not support Client-side: No mention of JS/Client code sa
  - [What we can do today](https://whatwebcando.today/) information of what your browser is capable of doing and how to do it with **code examples**.
  - [Can I use](https://caniuse.com/) information about which method and feature is supported by each browser. 
 
+## Storage and Databases
+
+- [How to Structure Your Data with Firebase (Cloud Firestore) 14 min](https://www.youtube.com/watch?v=haMOUb3KVSo) If you are considering using Firebase checkout this design video.
+        
