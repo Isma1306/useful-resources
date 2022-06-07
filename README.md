@@ -10,7 +10,7 @@ List of resources for our projects. Feel free to add more if you want.
 ## Packages
 
 - [Open base](https://openbase.com/) amazing database of packages.
-- [IDB](https://github.com/jakearchibald/idb) This is a tiny (~1.05k brotli'd) library that mostly mirrors the IndexedDB API, but with small improvements that make a big difference to usability. You can see a video about how to use it made a google [here!](https://www.youtube.com/watch?v=VNFDoawcmNc).
+- [IDB](https://github.com/jakearchibald/idb) This is a tiny (~1.05k brotli'd) library that mostly mirrors the IndexedDB API, but with small improvements that make a big difference to usability. You can see a video about how to use it made by google [here!](https://www.youtube.com/watch?v=VNFDoawcmNc).
 
 
 ## Tools
