@@ -22,6 +22,13 @@ Hints that the API does not support Client-side: No mention of JS/Client code sa
 
  - [What we can do today](https://whatwebcando.today/) information of what your browser is capable of doing and how to do it with **code examples**.
  - [Can I use](https://caniuse.com/) information about which method and feature is supported by each browser. 
+ - **Wireframing & Diagram Tools**:
+   - [Figma](https://www.figma.com/)
+   - [Excalidraw](https://excalidraw.com/)
+   - [Sketch](https://www.sketch.com/)
+   - [InVision](https://www.invisionapp.com/)
+
+See some wireframing examples from previous Solo projects [here](./img/Solo.Diagrams.01.jpg) and [here](./img/Solo.Diagrams.02.jpg). Made with `Excalidraw`.
 
 ## Storage and Databases
 
