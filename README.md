@@ -10,7 +10,7 @@ Notes:
 
 Watch for APIs that **do not support client requests** (you'll get CORS issues with )
 Hints that the API does not support Client-side: No mention of JS/Client code samples.
-![](./API.Probably.not.Supporting.Client.Requests.jpg)
+[Example](./API.Probably.not.Supporting.Client.Requests.jpg)
 
 ## Packages
 
