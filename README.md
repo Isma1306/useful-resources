@@ -6,6 +6,11 @@ List of resources for our projects. Feel free to add more if you want.
 
 - [Public apis](https://github.com/public-apis/public-apis) list of free public API's.
 
+Notes:
+
+Watch for APIs that **do not support client requests** (you'll get CORS issues with )
+Hints that the API does not support Client-side: No mention of JS/Client code samples.
+![](./API.Probably.not.Supporting.Client.Requests.jpg)
 
 ## Packages
 
