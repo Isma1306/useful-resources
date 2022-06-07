@@ -8,7 +8,7 @@ List of resources for our projects. Feel free to add more if you want.
 
 Notes:
 
-⚠️ EmojiWatch for APIs that **do not support client requests** (you'll get CORS issues with )
+⚠️ **Watch for APIs that do not support client requests** (you'll get CORS issues with )
 Hints that the API does not support Client-side: No mention of JS/Client code samples.
 [Example](./API.Probably.not.Supporting.Client.Requests.jpg)
 
@@ -16,7 +16,7 @@ Hints that the API does not support Client-side: No mention of JS/Client code sa
 
 - [Open base](https://openbase.com/) amazing database of packages.
 - [IDB](https://github.com/jakearchibald/idb) This is a tiny (~1.05k brotli'd) library that mostly mirrors the IndexedDB API, but with small improvements that make a big difference to usability. You can see a video about how to use it made by google [here!](https://www.youtube.com/watch?v=VNFDoawcmNc).
-
+- [Boring Avatars](https://www.npmjs.com/package/boring-avatars) Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
 
 ## Tools
 
